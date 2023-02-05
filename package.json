@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/cristina-bosa/api-persephone/issues"
   },
-  "homepage": "https://github.com/cristina-bosa/api-persephone#readme"
+  "homepage": "https://github.com/cristina-bosa/api-persephone#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
