@@ -1,0 +1,24 @@
+{
+  "name": "api-persephone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristina-bosa/api-persephone.git"
+  },
+  "keywords": [
+    "node",
+    "JavaScript",
+    "mongoDB"
+  ],
+  "author": "Cristina Bosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristina-bosa/api-persephone/issues"
+  },
+  "homepage": "https://github.com/cristina-bosa/api-persephone#readme"
+}
